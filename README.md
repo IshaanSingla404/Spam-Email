@@ -163,5 +163,3 @@ SpamShield is an educational machine learning project. Predictions are estimates
 ---
 
 If you find this project useful, consider giving the repository a ⭐.
-
-
